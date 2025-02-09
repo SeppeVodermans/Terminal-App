@@ -1,0 +1,232 @@
+{
+    "exercises": [
+        {
+            "id": 1,
+            "name": "Push-up",
+            "description": "Een oefening waarbij je jezelf opdrukt vanaf de grond om borst, schouders en triceps te trainen.",
+            "difficulty": 3,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/pushup.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "borst",
+                "triceps",
+                "schouders"
+            ],
+            "exercise_info": {
+                "id": 201,
+                "focus_area": "Bovenlichaam",
+                "calories_burned_per_minute": 8,
+                "duration": "30 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/pushup-info.jpg"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Squat",
+            "description": "Een fundamentele oefening om de beenspieren te versterken door te hurken en weer omhoog te komen.",
+            "difficulty": 3,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/squat.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "benen",
+                "billen",
+                "core"
+            ],
+            "exercise_info": {
+                "id": 202,
+                "focus_area": "Onderlichaam",
+                "calories_burned_per_minute": 10,
+                "duration": "45 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/squat-info.jpg"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Deadlift",
+            "description": "Een samengestelde oefening waarbij je een gewicht van de grond optilt, gericht op de rug, benen en gripkracht.",
+            "difficulty": 5,
+            "is_bodyweight": false,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/deadlift.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "onderrug",
+                "hamstrings",
+                "billen",
+                "gripkracht"
+            ],
+            "exercise_info": {
+                "id": 203,
+                "focus_area": "Full-body",
+                "calories_burned_per_minute": 12,
+                "duration": "30 seconden",
+                "recommended_sets": 4,
+                "image_url": "https://example.com/details/deadlift-info.jpg"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Plank",
+            "description": "Een core-stabilisatie oefening waarbij je jezelf in een rechte houding houdt op je ellebogen en tenen.",
+            "difficulty": 2,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/plank.jpg",
+            "category": "core",
+            "muscle_groups": [
+                "core",
+                "schouders",
+                "onderrug"
+            ],
+            "exercise_info": {
+                "id": 204,
+                "focus_area": "Core",
+                "calories_burned_per_minute": 5,
+                "duration": "60 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/plank-info.jpg"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Lunges",
+            "description": "Een oefening waarbij je een grote stap naar voren zet en door je knie zakt om de benen en billen te versterken.",
+            "difficulty": 3,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/lunges.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "benen",
+                "billen",
+                "core"
+            ],
+            "exercise_info": {
+                "id": 205,
+                "focus_area": "Onderlichaam",
+                "calories_burned_per_minute": 9,
+                "duration": "40 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/lunges-info.jpg"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Pull-up",
+            "description": "Een oefening waarbij je jezelf optrekt aan een stang om de rug en armen te versterken.",
+            "difficulty": 5,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/pullup.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "rug",
+                "biceps",
+                "core"
+            ],
+            "exercise_info": {
+                "id": 206,
+                "focus_area": "Bovenlichaam",
+                "calories_burned_per_minute": 10,
+                "duration": "30 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/pullup-info.jpg"
+            }
+        },
+        {
+            "id": 7,
+            "name": "Dumbbell Shoulder Press",
+            "description": "Een oefening met dumbbells om de schouders en triceps te versterken.",
+            "difficulty": 4,
+            "is_bodyweight": false,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/shoulder-press.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "schouders",
+                "triceps"
+            ],
+            "exercise_info": {
+                "id": 207,
+                "focus_area": "Bovenlichaam",
+                "calories_burned_per_minute": 7,
+                "duration": "30 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/shoulder-press-info.jpg"
+            }
+        },
+        {
+            "id": 8,
+            "name": "Bench Press",
+            "description": "Een oefening waarbij je een halterstang vanaf je borst omhoog duwt om de borstspieren te trainen.",
+            "difficulty": 4,
+            "is_bodyweight": false,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/benchpress.jpg",
+            "category": "kracht",
+            "muscle_groups": [
+                "borst",
+                "triceps",
+                "schouders"
+            ],
+            "exercise_info": {
+                "id": 208,
+                "focus_area": "Bovenlichaam",
+                "calories_burned_per_minute": 8,
+                "duration": "40 seconden",
+                "recommended_sets": 4,
+                "image_url": "https://example.com/details/benchpress-info.jpg"
+            }
+        },
+        {
+            "id": 9,
+            "name": "Russian Twist",
+            "description": "Een oefening voor de schuine buikspieren waarbij je met een draaibeweging een gewicht van links naar rechts beweegt.",
+            "difficulty": 3,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/russian-twist.jpg",
+            "category": "core",
+            "muscle_groups": [
+                "core",
+                "schuine buikspieren"
+            ],
+            "exercise_info": {
+                "id": 209,
+                "focus_area": "Core",
+                "calories_burned_per_minute": 6,
+                "duration": "50 seconden",
+                "recommended_sets": 3,
+                "image_url": "https://example.com/details/russian-twist-info.jpg"
+            }
+        },
+        {
+            "id": 10,
+            "name": "Burpees",
+            "description": "Een explosieve full-body oefening waarbij je een push-up combineert met een sprong in de lucht.",
+            "difficulty": 4,
+            "is_bodyweight": true,
+            "date_added": "2024-02-01",
+            "image_url": "https://example.com/images/burpees.jpg",
+            "category": "cardio",
+            "muscle_groups": [
+                "full-body",
+                "uithoudingsvermogen"
+            ],
+            "exercise_info": {
+                "id": 210,
+                "focus_area": "Full-body",
+                "calories_burned_per_minute": 12,
+                "duration": "30 seconden",
+                "recommended_sets": 4,
+                "image_url": "https://example.com/details/burpees-info.jpg"
+            }
+        }
+    ]
+}

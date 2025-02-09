@@ -1,0 +1,84 @@
+{
+    "exercise_info": [
+        {
+            "id": 201,
+            "focus_area": "Bovenlichaam",
+            "calories_burned_per_minute": 8,
+            "duration": "30 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/pushup-info.jpg"
+        },
+        {
+            "id": 202,
+            "focus_area": "Onderlichaam",
+            "calories_burned_per_minute": 10,
+            "duration": "45 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/squat-info.jpg"
+        },
+        {
+            "id": 203,
+            "focus_area": "Full-body",
+            "calories_burned_per_minute": 12,
+            "duration": "30 seconden",
+            "recommended_sets": 4,
+            "image_url": "https://example.com/details/deadlift-info.jpg"
+        },
+        {
+            "id": 204,
+            "focus_area": "Core",
+            "calories_burned_per_minute": 5,
+            "duration": "60 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/plank-info.jpg"
+        },
+        {
+            "id": 205,
+            "focus_area": "Onderlichaam",
+            "calories_burned_per_minute": 9,
+            "duration": "40 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/lunges-info.jpg"
+        },
+        {
+            "id": 206,
+            "focus_area": "Bovenlichaam",
+            "calories_burned_per_minute": 10,
+            "duration": "30 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/pullup-info.jpg"
+        },
+        {
+            "id": 207,
+            "focus_area": "Bovenlichaam",
+            "calories_burned_per_minute": 7,
+            "duration": "30 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/shoulder-press-info.jpg"
+        },
+        {
+            "id": 208,
+            "focus_area": "Bovenlichaam",
+            "calories_burned_per_minute": 8,
+            "duration": "40 seconden",
+            "recommended_sets": 4,
+            "image_url": "https://example.com/details/benchpress-info.jpg"
+        },
+        {
+            "id": 209,
+            "focus_area": "Core",
+            "calories_burned_per_minute": 6,
+            "duration": "50 seconden",
+            "recommended_sets": 3,
+            "image_url": "https://example.com/details/russian-twist-info.jpg"
+        },
+        {
+            "id": 210,
+            "focus_area": "Full-body",
+            "calories_burned_per_minute": 12,
+            "duration": "30 seconden",
+            "recommended_sets": 4,
+            "image_url": "https://example.com/details/burpees-info.jpg"
+        }
+    ]
+}
