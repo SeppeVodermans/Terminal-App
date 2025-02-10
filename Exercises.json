@@ -7,7 +7,7 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/pushup.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Push%20Up.webp",
             "category": "kracht",
             "muscle_groups": [
                 "borst",
@@ -30,7 +30,7 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/squat.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Squat.webp",
             "category": "kracht",
             "muscle_groups": [
                 "benen",
@@ -53,7 +53,7 @@
             "difficulty": 5,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/deadlift.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/DeadLift.webp",
             "category": "kracht",
             "muscle_groups": [
                 "onderrug",
@@ -77,7 +77,7 @@
             "difficulty": 2,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/plank.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Plank.webp",
             "category": "core",
             "muscle_groups": [
                 "core",
@@ -100,7 +100,7 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/lunges.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Lunges.webp",
             "category": "kracht",
             "muscle_groups": [
                 "benen",
@@ -123,7 +123,7 @@
             "difficulty": 5,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/pullup.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Pull%20Up.webp",
             "category": "kracht",
             "muscle_groups": [
                 "rug",
@@ -146,7 +146,7 @@
             "difficulty": 4,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/shoulder-press.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Shoulder%20Press.webp",
             "category": "kracht",
             "muscle_groups": [
                 "schouders",
@@ -168,7 +168,7 @@
             "difficulty": 4,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/benchpress.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Bench.webp",
             "category": "kracht",
             "muscle_groups": [
                 "borst",
@@ -191,7 +191,7 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/russian-twist.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Russian%20Twist.webp",
             "category": "core",
             "muscle_groups": [
                 "core",
@@ -213,7 +213,7 @@
             "difficulty": 4,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://example.com/images/burpees.jpg",
+            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Burpee.webp",
             "category": "cardio",
             "muscle_groups": [
                 "full-body",
