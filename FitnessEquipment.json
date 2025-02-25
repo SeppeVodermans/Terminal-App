@@ -1,0 +1,64 @@
+{
+    "equipment": [
+        {
+            "id": 101,
+            "name": "Yoga-mat",
+            "available": true,
+            "image_url": "https://example.com/images/no-equipment.jpg"
+        },
+        {
+            "id": 102,
+            "name": "Yoga-mat",
+            "available": true,
+            "image_url": "https://example.com/images/no-equipment.jpg"
+        },
+        {
+            "id": 103,
+            "name": "Halterstang",
+            "available": true,
+            "image_url": "https://example.com/images/barbell.jpg"
+        },
+        {
+            "id": 104,
+            "name": "Yoga-mat",
+            "available": true,
+            "image_url": "https://example.com/images/no-equipment.jpg"
+        },
+        {
+            "id": 105,
+            "name": "Yoga-mat",
+            "available": true,
+            "image_url": "https://example.com/images/no-equipment.jpg"
+        },
+        {
+            "id": 106,
+            "name": "Optrekstang",
+            "available": true,
+            "image_url": "https://example.com/images/pullup-bar.jpg"
+        },
+        {
+            "id": 107,
+            "name": "Dumbbells",
+            "available": true,
+            "image_url": "https://example.com/images/dumbbells.jpg"
+        },
+        {
+            "id": 108,
+            "name": "Bankdrukbank",
+            "available": true,
+            "image_url": "https://example.com/images/bench.jpg"
+        },
+        {
+            "id": 109,
+            "name": "Medicijnbal",
+            "available": true,
+            "image_url": "https://example.com/images/medicine-ball.jpg"
+        },
+        {
+            "id": 110,
+            "name": "Yoga-mat",
+            "available": true,
+            "image_url": "https://example.com/images/no-equipment.jpg"
+        }
+    ]
+}

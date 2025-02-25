@@ -7,20 +7,18 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Push%20Up.webp",
+            "image_url": "https://github.com/SeppeVodermans/Terminal-App/blob/main/DALL%C2%B7E%202025-02-03%2012.22.11%20-%20A%20person%20performing%20a%20push-up%20exercise%2C%20pushing%20themselves%20off%20the%20ground%20to%20work%20on%20the%20chest%2C%20shoulders%2C%20and%20triceps.%20The%20person%20is%20focused%20and%20in%20a.webp",
             "category": "kracht",
             "muscle_groups": [
                 "borst",
                 "triceps",
                 "schouders"
             ],
-            "exercise_info": {
-                "id": 201,
-                "focus_area": "Bovenlichaam",
-                "calories_burned_per_minute": 8,
-                "duration": "30 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/pushup-info.jpg"
+            "equipment": {
+                "id": 101,
+                "name": "Yoga-mat",
+                "available": true,
+                "image_url": "https://example.com/images/no-equipment.jpg"
             }
         },
         {
@@ -30,20 +28,18 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Squat.webp",
+            "image_url": "https://example.com/images/squat.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "benen",
                 "billen",
                 "core"
             ],
-            "exercise_info": {
-                "id": 202,
-                "focus_area": "Onderlichaam",
-                "calories_burned_per_minute": 10,
-                "duration": "45 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/squat-info.jpg"
+            "equipment": {
+                "id": 102,
+                "name": "Yoga-mat",
+                "available": true,
+                "image_url": "https://example.com/images/no-equipment.jpg"
             }
         },
         {
@@ -53,7 +49,7 @@
             "difficulty": 5,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/DeadLift.webp",
+            "image_url": "https://example.com/images/deadlift.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "onderrug",
@@ -61,13 +57,11 @@
                 "billen",
                 "gripkracht"
             ],
-            "exercise_info": {
-                "id": 203,
-                "focus_area": "Full-body",
-                "calories_burned_per_minute": 12,
-                "duration": "30 seconden",
-                "recommended_sets": 4,
-                "image_url": "https://example.com/details/deadlift-info.jpg"
+            "equipment": {
+                "id": 103,
+                "name": "Halterstang",
+                "available": true,
+                "image_url": "https://example.com/images/barbell.jpg"
             }
         },
         {
@@ -77,20 +71,18 @@
             "difficulty": 2,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Plank.webp",
+            "image_url": "https://example.com/images/plank.jpg",
             "category": "core",
             "muscle_groups": [
                 "core",
                 "schouders",
                 "onderrug"
             ],
-            "exercise_info": {
-                "id": 204,
-                "focus_area": "Core",
-                "calories_burned_per_minute": 5,
-                "duration": "60 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/plank-info.jpg"
+            "equipment": {
+                "id": 104,
+                "name": "Yoga-mat",
+                "available": true,
+                "image_url": "https://example.com/images/no-equipment.jpg"
             }
         },
         {
@@ -100,20 +92,18 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Lunges.webp",
+            "image_url": "https://example.com/images/lunges.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "benen",
                 "billen",
                 "core"
             ],
-            "exercise_info": {
-                "id": 205,
-                "focus_area": "Onderlichaam",
-                "calories_burned_per_minute": 9,
-                "duration": "40 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/lunges-info.jpg"
+            "equipment": {
+                "id": 105,
+                "name": "Yoga-mat",
+                "available": true,
+                "image_url": "https://example.com/images/no-equipment.jpg"
             }
         },
         {
@@ -123,20 +113,18 @@
             "difficulty": 5,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Pull%20Up.webp",
+            "image_url": "https://example.com/images/pullup.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "rug",
                 "biceps",
                 "core"
             ],
-            "exercise_info": {
-                "id": 206,
-                "focus_area": "Bovenlichaam",
-                "calories_burned_per_minute": 10,
-                "duration": "30 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/pullup-info.jpg"
+            "equipment": {
+                "id": 106,
+                "name": "Optrekstang",
+                "available": true,
+                "image_url": "https://example.com/images/pullup-bar.jpg"
             }
         },
         {
@@ -146,19 +134,17 @@
             "difficulty": 4,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Shoulder%20Press.webp",
+            "image_url": "https://example.com/images/shoulder-press.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "schouders",
                 "triceps"
             ],
-            "exercise_info": {
-                "id": 207,
-                "focus_area": "Bovenlichaam",
-                "calories_burned_per_minute": 7,
-                "duration": "30 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/shoulder-press-info.jpg"
+            "equipment": {
+                "id": 107,
+                "name": "Dumbbells",
+                "available": true,
+                "image_url": "https://example.com/images/dumbbells.jpg"
             }
         },
         {
@@ -168,20 +154,18 @@
             "difficulty": 4,
             "is_bodyweight": false,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Bench.webp",
+            "image_url": "https://example.com/images/benchpress.jpg",
             "category": "kracht",
             "muscle_groups": [
                 "borst",
                 "triceps",
                 "schouders"
             ],
-            "exercise_info": {
-                "id": 208,
-                "focus_area": "Bovenlichaam",
-                "calories_burned_per_minute": 8,
-                "duration": "40 seconden",
-                "recommended_sets": 4,
-                "image_url": "https://example.com/details/benchpress-info.jpg"
+            "equipment": {
+                "id": 108,
+                "name": "Bankdrukbank",
+                "available": true,
+                "image_url": "https://example.com/images/bench.jpg"
             }
         },
         {
@@ -191,19 +175,17 @@
             "difficulty": 3,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Russian%20Twist.webp",
+            "image_url": "https://example.com/images/russian-twist.jpg",
             "category": "core",
             "muscle_groups": [
                 "core",
                 "schuine buikspieren"
             ],
-            "exercise_info": {
-                "id": 209,
-                "focus_area": "Core",
-                "calories_burned_per_minute": 6,
-                "duration": "50 seconden",
-                "recommended_sets": 3,
-                "image_url": "https://example.com/details/russian-twist-info.jpg"
+            "equipment": {
+                "id": 109,
+                "name": "Medicijnbal",
+                "available": true,
+                "image_url": "https://example.com/images/medicine-ball.jpg"
             }
         },
         {
@@ -213,19 +195,17 @@
             "difficulty": 4,
             "is_bodyweight": true,
             "date_added": "2024-02-01",
-            "image_url": "https://raw.githubusercontent.com/SeppeVodermans/Terminal-App/refs/heads/main/Images/Burpee.webp",
+            "image_url": "https://example.com/images/burpees.jpg",
             "category": "cardio",
             "muscle_groups": [
                 "full-body",
                 "uithoudingsvermogen"
             ],
-            "exercise_info": {
-                "id": 210,
-                "focus_area": "Full-body",
-                "calories_burned_per_minute": 12,
-                "duration": "30 seconden",
-                "recommended_sets": 4,
-                "image_url": "https://example.com/details/burpees-info.jpg"
+            "equipment": {
+                "id": 110,
+                "name": "Yoga-mat",
+                "available": true,
+                "image_url": "https://example.com/images/no-equipment.jpg"
             }
         }
     ]
